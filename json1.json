@@ -1,0 +1,43 @@
+{
+    "id": 1,
+    "nombre": "KeepSa Algodón Ajustable Boinas Hombre Gorras Plana Vintage Sombreros Verano Transpirable Gorras Planas Gorras Trucker 56-59CM",
+    "precio": "56,99",
+    "maxUnidades": 20,
+    "imagenPortada": "https://m.media-amazon.com/images/I/71tbBYsnX4S._AC_UX679_.jpg",
+    "vendedor": {
+        "nombre": "KeepSa"
+    },
+    "valoracion": {
+        "puntaje": "3,5",
+        "cantidad": 1325
+    },
+    "fechaEntrega": "Jueves, 25 de mayo",
+    "descripciones": [
+        "【Material: 100% algodón】 El material de algodón puro es agradable para la piel, transpirable y cómodo, suave al tacto, protector solar y anti-ultravioleta, moderno y versátil.",
+        "【Diseño elegante para hombres】Talla única: 56-59CM(22 ~ 23,2 pulgadas),esta parte superior plana tiene una hebilla de algodón ajustable en el costado,que es conveniente ajustar para adaptarse a cualquier circunferencia de cabeza suya. El borde proporciona protección solar para proteger tu cara del sol.",
+        "Algodón",
+        "Cierre: Pull on, Ajustable, Hebilla"
+    ],
+    "modelos": [
+        {
+            "nombre": "K56-Azul marino",
+            "urlImagen": "https://m.media-amazon.com/images/I/41TTihwBNPS._SX38_SY50_CR,0,0,38,50_.jpg"
+        },
+        {
+            "nombre": "K56-Caqui",
+            "urlImagen": "https://m.media-amazon.com/images/I/41-HYOmUmzS._SX38_SY50_CR,0,0,38,50_.jpg"
+        },
+        {
+            "nombre": "K56-Gris",
+            "urlImagen": "https://m.media-amazon.com/images/I/41xSe6gk53S._SX38_SY50_CR,0,0,38,50_.jpg"
+        },
+        {
+            "nombre": "K56-Negro",
+            "urlImagen": "https://m.media-amazon.com/images/I/41DlX7zno1S._SX38_SY50_CR,0,0,38,50_.jpg"
+        },
+        {
+            "nombre": "K56-Verde Militar",
+            "urlImagen": "https://m.media-amazon.com/images/I/41VKeY-htjS._SX38_SY50_CR,0,0,38,50_.jpg"
+        }
+    ]
+}
